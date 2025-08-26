@@ -1,3 +1,4 @@
 fyevb.com
 wusi647gk.xyz
 puma.com
+.*\.puma\.com
